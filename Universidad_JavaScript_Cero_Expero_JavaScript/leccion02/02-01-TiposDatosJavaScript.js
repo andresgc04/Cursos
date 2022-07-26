@@ -67,3 +67,13 @@ console.log(typeof(x));
 var y = null;
 console.log(y);
 console.log(typeof(y));
+
+//Tipos de datos arreglos (Arrays) que son por igual objectos:
+var autos = ['BMW','Audi','Volvo'];
+console.log(autos);
+console.log(typeof(autos));
+
+//Asignar cadenas vacias:
+var z = '';
+console.log(z);
+console.log(typeof(z));
